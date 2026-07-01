@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi 👋 I'm André Loureiro
 
-<!--
-**Loureiro12/Loureiro12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Frontend Engineer from Brazil 🇧🇷
 
-Here are some ideas to get you started:
+I build scalable web and mobile applications using React, React Native, TypeScript and Node.js.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+- React
+- React Native
+- Expo
+- TypeScript
+- Next.js
+- Node.js
+- NestJS
+- Prisma
+- PostgreSQL
+- Docker
+- AWS
+- Firebase
+
+## Current Focus
+
+- Mobile Architecture
+- Performance
+- Clean Architecture
+- System Design
+- AI integrations
+
+## Featured Projects
+
+🚀 Firula
+Platform for events, sports courts and memberships.
+
+💳 Petrobras Premmia
+Large-scale loyalty application.
+
+📱 React Native Libraries
+
+## Connect
+
+LinkedIn
+Email
+Portfolio
